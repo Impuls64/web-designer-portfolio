@@ -29,6 +29,13 @@ Portfolio package for job applications. Contains cover letter + 3 case studies a
 2. Review case studies — verify metrics and project names
 3. Export to PDF or send as-is (Markdown)
 
+## Secrets and API Tokens
+
+Global secrets file: `~/.env`
+- FIGMA_TOKEN — для работы с Figma API
+- Другие токены добавлять по мере необходимости
+- Файл имеет права 600 (только владелец)
+
 ## Rules
 
 - Do not commit `.env` files
