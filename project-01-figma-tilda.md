@@ -123,6 +123,21 @@
 
 ---
 
+## Демо и скриншоты
+
+**Живой прототип:** [demo/project-01/index.html](demo/project-01/index.html) — открыть в браузере
+
+### Скриншоты
+
+![Desktop — полная страница](assets/project-01/hero-desktop.png)
+*Desktop версия (1920×1080)*
+
+![Mobile — адаптив](assets/project-01/hero-mobile.png)
+*Mobile версия (375×667)*
+
+![Tablet — адаптив](assets/project-01/hero-tablet.png)
+*Tablet версия (768×1024)*
+
 ## Ключевые экраны
 
 ### 1. Hero-секция
